@@ -191,3 +191,5 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 
+#EXTINF:0,Al Malakot
+https://fastly.live.brightcove.com/6368012377112/eu-central-1/6415808954001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibGswN2VmLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTgwODk1NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA4OTU0MDAxIl0sImp0aSI6IjYzNjgwMTIzNzcxMTIifQ.4QY1PIlqxpShDJtDrGu2yb9mlRd3WEKPo83bbs_G31U/chunklist-dvr__1.m3u8
