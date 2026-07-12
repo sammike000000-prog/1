@@ -9,7 +9,7 @@ https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ME SAT.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ME SAT (720p)
-https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+https://rr1---sn-u2bpouxgoxu-ntqee.googlevideo.com/videoplayback?expire=1783890451&ei=s61TaojxC5OCjuMPpfTSsA0&ip=124.168.14.122&id=o-AE58_pDpO9XSjv0RKcdEBTloYykfSbtdEisHWNZIMjhL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=328&met=1783868851%2C&mh=63&mm=31%2C29&mn=sn-u2bpouxgoxu-ntqee%2Csn-2ontq5-5a&ms=au%2Crdu&mv=m&mvi=1&pl=23&rms=au%2Cau&initcwndbps=2906250&bui=AZFlqhOcqmgwdilEv2Lp5PHvngi3plS2NSbrd6QR10mMeb9_ZNVdS9Ce69uflDi9Hl-IYjZOAQBOCfht&spc=SQ-umvwRD0R696h0CyH3AE1rDeQwAEScVBedflO4k1-fY9NVEqfy&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=351.782&lmt=1738250647501102&mt=1783868487&fvip=3&fexp=51565115%2C52017147&c=ANDROID_VR&txp=8208224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIgH0F5VuIh5aDdjmutkNYMjC8naYG8l4CCPlZfe_7SFvMCIQD_MhLyBKoz7iZwj99O25Wi-V2u8SvycvWwJ9h_NRW0Qg%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAInYumO7b56_bZeSfvfep0hUemdWa0z9fYFWuucmMC9kAiA2pVWM0HCd0910ZnYyLJTQZmDXVLtZXJpHxXcv-hcKWg%3D%3D
 #EXTINF:0,ABNsat (720p)
 #EXTVLCOPT:network-caching=1000
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
