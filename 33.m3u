@@ -33,6 +33,8 @@ https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us"tvg-logo="https://i.imgur.com/pnm60bq.png"group-title="United States",Alkarma TV North America & Canada (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:0,Al Karma Shabab
+https://m1.livecdn.io/alkarmatv.com/alkarmaUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkerazaTV.us"tvg-logo="https://i.imgur.com/OjBjq8r.png"group-title="United States",Alkerazatv (720p)
 https://hwlive.streamingmediahosting.com/14221-live/Alkeraza_Nile_Sat/chunklist_w142211AlkerazaNileSat.m3u8
 #EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us"tvg-logo="https://i.imgur.com/3pUik3b.png"group-title="United States",Almagd TV Middle East (1080p) [Not 24/7]
