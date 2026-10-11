@@ -40,6 +40,13 @@ https://m7.livecdn.io/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
 #EXTINF:0,Al Karma Talmaza
 https://m1.livecdn.io/alkarmatv.com/alkarmaME2.smil/playlist.m3u8
 #EXTINF:0,Al Karma Tasbeeh
+#EXTINF:0,Al Karma All Nation
+https://m4.livecdn.io/alkarmatv.com/alkallnations.smil/playlist.m3u8
+#EXTINF:0,Al Karma Australia
+https://m4.livecdn.io/alkarmatv.com/alkarmaAU.smil/playlist.m3u8
+#EXTINF:0,Al Karma الشرق الاوسط
+https://m6.livecdn.io/alkarmatv.com/alkarmaME1.smil/playlist.m3u8
+#EXTINF:0,Al Karma TV 
 https://m1.livecdn.io/alkarmatv.com/alkarmaPA.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkerazaTV.us"tvg-logo="https://i.imgur.com/OjBjq8r.png"group-title="United States",Alkerazatv (720p)
 https://hwlive.streamingmediahosting.com/14221-live/Alkeraza_Nile_Sat/chunklist_w142211AlkerazaNileSat.m3u8
