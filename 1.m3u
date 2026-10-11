@@ -10,7 +10,7 @@ https://ctv.icopts.app/ctv_USA/index.fmp4.m3u8
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:0,Coptic TV استراليا (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
-https://ctv.icopts.app/ctv_Australia/tracks-v1/index.fmp4.m3u8
+https://ctv.icopts.app/ctv_Australia/index.fmp4.m3u8
 
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ME SAT.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ME SAT (720p)
