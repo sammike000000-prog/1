@@ -221,3 +221,7 @@ https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 
 #EXTINF:0,Al Malakot
 https://fastly.live.brightcove.com/6368012377112/eu-central-1/6415808954001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibGswN2VmLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTgwODk1NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA4OTU0MDAxIl0sImp0aSI6IjYzNjgwMTIzNzcxMTIifQ.4QY1PIlqxpShDJtDrGu2yb9mlRd3WEKPo83bbs_G31U/chunklist-dvr__1.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" tvg-id="MBCMasr1.eg" tvg-chno="9" tvg-country="EG" group-title="Egypt",MBC Masr 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg" tvg-id="MBCMasr2.eg" tvg-chno="10" tvg-country="EG" group-title="Egypt",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
