@@ -18,7 +18,10 @@ https://96vd9xprdxq7-hls-live.5centscdn.com/gsntv/f7b44cfafd5c52223d5498196c8a2e
 https://ca1.buximedia.com/coa/alkalema/tracks-v1a1/mono.m3u8
 #EXTINF:0,CSAT
 https://m1.livecdn.io/csat.tv/csat.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD",Al Masriyah (1080p)
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-id="ATVSat.us@SD",ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ME SAT.eg"tvg-logo="https://i.imgur.com/Wq7HXtR.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",ME SAT (720p)
