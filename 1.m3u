@@ -3,9 +3,9 @@
 https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66186246_b1592000_slar.m3u8
 #EXTINF:-1 tvg-id="LogosTVEnglish.us"tvg-logo="https://i.imgur.com/LDfEK81.png"group-title="United States",Logos TV English (1080p) [Not 24/7]
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
-#EXTINF:-1 tvg-id="CopticTV.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV Nagy (720p)
+#EXTINF:-1 tvg-id="CopticTV.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TVNagy (720p)
 https://ctv.icopts.app/ctv_USA/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CopticTV.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV Nagy test(720p)
+#EXTINF:-1 tvg-id="CopticTV.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TVNagytest(720p)
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:0,Coptic TV استراليا (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
