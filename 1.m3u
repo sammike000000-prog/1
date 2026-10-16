@@ -5,11 +5,12 @@ https://5d12bc59c4748.streamlock.net/logoschannel.com/logostv.smil/chunklist_w66
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8
 #EXTINF:-1 tvg-id="CopticTV Nagy.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV (720p)
 https://ctv.icopts.app/ctv_USA/index.fmp4.m3u8
-
+#EXTINF:-1 tvg-id="CopticTV Nagy test.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV (720p)
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:0,Coptic TV استراليا (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://ctv.icopts.app/ctv_Australia/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CopticTV Nagy test1.eg"tvg-logo="https://www.ctvchannel.tv/images/CTV-logo-white.png"tvg-shift=""group-title="Religious":http-referrer="":http-user-agent="",Coptic TV (720p)
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:0, الرجاء
 https://96vd9xprdxq7-hls-live.5centscdn.com/gsntv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
